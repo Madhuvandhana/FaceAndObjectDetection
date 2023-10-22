@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraMLDemo</string>
+    <string name="face_object_detection_title">Face And Object detection</string>
+</resources>
