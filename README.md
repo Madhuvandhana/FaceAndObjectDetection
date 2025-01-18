@@ -29,7 +29,7 @@ The live camera can detect face and object together.
 ## Demo Screenshots
 Here are some screenshots showcasing the app's capabilities:
 
-![Screenshot 1](/CameraMLDemo/screenshots/1.png) ![Screenshot 2](/CameraMLDemo/screenshots/2.png)
+ ![Screenshot 2](/CameraMLDemo/screenshots/2.png)
 
 ## ML Kit Vision Features
 The app demonstrates the following ML Kit Vision features:
